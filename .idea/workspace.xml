@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a825bdcd-3d9d-43dd-a35d-20d19ee84f25" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/UAE-Besdock.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/apiconcierge_main.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/apiconcierge_variables.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/bestdoc_main.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/bestdoc_variables.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/common_resource.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/common_variables.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/env/prod-env/prod-env.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1/env/prod-env/prod-env.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/lamda-functions/python/ecsdeploy/ecs_deploy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/output/ecs_deploy.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/provider.tf" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1/provider.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/script.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/survey_account_dns.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-1/vpc_variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/Project-1/vpc_variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-acm-cert/assoc_lb_listener_certificate.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-acm-cert/variables.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-acm/main.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-acm/output.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-acm/variables.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecr/ecr_policy.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecr/main.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecr/output.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecr/variable.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecr/version.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecs-cluster/ecs_cluster.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecs-cluster/output.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecs-cluster/variables.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecs-service/ecs_securitygroup.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecs-service/ecs_service.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecs-service/ecs_task_role.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecs-service/ecs_taskdefinition.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecs-service/output.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecs-service/variable.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-ecs-service/version.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-lamda/lamda_archive.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-lamda/main.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-lamda/output.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-lamda/policy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-lamda/role.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-lamda/role.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-lamda/variable.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-lamda/version.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-route53-records/records.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-route53-records/varaibles.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-route53-root/records.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-route53-root/variables.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-route53/main.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-route53/output.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-route53/variables.tf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ss-module-aws-vpc-lb-tg/lb_listener_rule.tf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2VTvF2bBZGSKT3fslFQrK7YXaOe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/ss-module-aws-acm-cert" />
+      <recent name="$PROJECT_DIR$/modules/ss-module-aws-vpc-lb-tg" />
+      <recent name="$PROJECT_DIR$/modules/ss-module-aws-ecs" />
+      <recent name="$PROJECT_DIR$/modules/ss-module-aws-ecs-cluster" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a825bdcd-3d9d-43dd-a35d-20d19ee84f25" name="Changes" comment="" />
+      <created>1694872781798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694872781798</updated>
+    </task>
+    <servers />
+  </component>
+</project>
