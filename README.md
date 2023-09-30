@@ -1,7 +1,7 @@
 # Terraform-Mastery
 To run this project <br>
 -------------------------<br>
-cd  Project-1
+cd  Project-1<br>
 #update the vpc_variables.tf files according to your project profile <br>
 To create infrastructure run <br>
  
