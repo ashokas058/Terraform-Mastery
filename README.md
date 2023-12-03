@@ -11,4 +11,6 @@ To create infrastructure run <br>
 
  To destroy<br>
  terraform destroy -var-file="env/prod-env/prod-env.tfvars"
+ ------------------------------------------------------------<br>
+ <img src="https://github.com/ashokas058/Terraform-Mastery/blob/vpc/terraform-multilayer.jpg">
 
